@@ -62,7 +62,7 @@ export const RESUME_DATA = {
       title: "Chief Technology Officer",
       logo: "https://dreamprovider.in/_next/static/media/logo.5d2dded6.png", // Blank as there is no information provided for the company logo
       start: "July 2022",
-      end: "Present",
+      end: "Sept 2023",
       description:
         "Building and leading the technology team. Setting the company’s technical vision and strategy. Staying up to date with industry trends and innovations. Developing partnerships with technology vendors. Ensuring the security and reliability of the company’s technology systems.",
     },
