@@ -113,15 +113,15 @@ export const RESUME_DATA = {
     "MySQL",
   ],
   projects: [
-    // {
-    //   title: "Project Title",
-    //   techStack: [],
-    //   description: "Project Description",
-    //   logo: ConsultlyLogo,
-    //   link: {
-    //     label: "consultly.com",
-    //     href: "https://consultly.com/",
-    //   },
-    // },
+    {
+      title: "Project Title",
+      techStack: [],
+      description: "Project Description",
+      logo: "",
+      link: {
+        label: "",
+        href: "",
+      },
+    },
   ],
 } as const;
