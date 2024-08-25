@@ -117,13 +117,108 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Project Title",
-      techStack: [],
-      description: "Project Description",
+      title: "Provider",
+      techStack: [
+        "Chief Technology Officer",
+        "Startup",
+        "Node.js",
+        "TypeScript",
+        "React",
+        "React Native",
+        "Graphql",
+        "Mysql",
+        "Azure",
+      ],
+      description: "Residence Booking Platform for Students",
+      logo: "",
+      link: {
+        label: "Dream Provider Pvt. Ltd.",
+        href: "https://www.dreamprovider.in/",
+      },
+    },
+    {
+      title: "Provider App",
+      techStack: ["React Native", "TypeScript", "Graphql", "Redux"],
+      description: "Residence Booking App for Students",
+      logo: "",
+      link: {
+        label: "Dream Provider Pvt. Ltd.",
+        href: "https://play.google.com/store/apps/details?id=provider.in",
+      },
+    },
+    {
+      title: "Provider Website",
+      techStack: ["Next Js", "TypeScript"],
+      description: "Residence Booking App for Students",
+      logo: "",
+      link: {
+        label: "Dream Provider Pvt. Ltd.",
+        href: "https://www.dreamprovider.in/",
+      },
+    },
+    {
+      title: "Provider Server",
+      techStack: ["Node.js", "Strapi"],
+      description: "Residence Booking Application Server Api",
+      logo: "",
+      link: {
+        label: "Dream Provider Pvt. Ltd.",
+        href: "https://www.dreamprovider.in/",
+      },
+    },
+    {
+      title: "Provider Sales Management & Admin Pannel",
+      techStack: ["Node.js", "Strapi", "Strapi Extension"],
+      description:
+        "Residence Booking Application Sales Mangement and Admin Pannel",
+      logo: "",
+      link: {
+        label: "Dream Provider Pvt. Ltd.",
+        href: "https://www.dreamprovider.in/",
+      },
+    },
+    {
+      title: "Provider Sales Management & Admin Pannel",
+      techStack: ["Node.js", "Strapi", "Strapi Extension"],
+      description:
+        "Residence Booking Application Sales Mangement and Admin Pannel",
+      logo: "",
+      link: {
+        label: "Dream Provider Pvt. Ltd.",
+        href: "https://www.dreamprovider.in/",
+      },
+    },
+    {
+      title: "Diem CRM",
+      techStack: ["Freelancer", "Nextjs", "Mongodb"],
+      description:
+        "Developed a comprehensive portal designed to manage sales, payouts, appointment scheduling, and other key business operations, streamlining processes and improving efficiency.",
       logo: "",
       link: {
         label: "",
-        href: "",
+        href: "https://order.diemtheapp.com/",
+      },
+    },
+    {
+      title: "Dawn Job",
+      techStack: ["Freelancer", "React Native", "Node.js", "Expo", "Mysql"],
+      description:
+        "Managed a team to develop a startup from the ground up, creating a fully functional application and backend. The platform enables users to enhance their job prospects by posting video resumes, offering a modern approach to job hunting.",
+      logo: "",
+      link: {
+        label: "",
+        href: "https://www.dawnjobapp.com/",
+      },
+    },
+    {
+      title: "Publi Data PDF Calender",
+      techStack: ["Freelancer", "Node.js", "Pdfmake"],
+      description:
+        "Developed a dynamic PDF calendar generator utilizing pdfmake. This tool allows users to create customized calendars in PDF format, enabling dynamic content generation and formatting.",
+      logo: "",
+      link: {
+        label: "",
+        href: "https://www.publidata.io/en/widget-info-dechets/",
       },
     },
   ],
